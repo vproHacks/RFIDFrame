@@ -1,0 +1,7 @@
+README.md
+RFIDFrame
+setup.py
+RFIDFrame.egg-info/PKG-INFO
+RFIDFrame.egg-info/SOURCES.txt
+RFIDFrame.egg-info/dependency_links.txt
+RFIDFrame.egg-info/top_level.txt
